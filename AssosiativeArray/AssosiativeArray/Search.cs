@@ -6,24 +6,31 @@ namespace AssosiativeArray
 {
     class Search
     {
-        public void ArraySearch(string[,] arr, string val)
+        public string ArraySearch(string[,] arr, string val)
         {
             for(var i = 0; i < arr.Length; i++)
             {
                 for(var j = 0; j < 2; j++)
                 {
+                    
                     if(arr[i,j].Contains(val))
                     {
-                        Console.WriteLine(i[j]);
-                        return;
+                        string lol = $"Found it at {i}";
+                        Print(lol);
+                        
                     }
                     else
                     {
-                        Console.WriteLine("Key not found");
+                        return("Key not found");
                     }
                 }
                 
             }
+            return ("key unkown");
+        }
+        public void Print(string lol)
+        {
+            Console.WriteLine(lol);
         }
     }
 }
