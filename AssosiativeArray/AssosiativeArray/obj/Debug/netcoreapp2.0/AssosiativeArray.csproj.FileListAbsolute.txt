@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\bin\Debug\netcoreapp2.0\AssosiativeArray.deps.json
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\bin\Debug\netcoreapp2.0\AssosiativeArray.runtimeconfig.json
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\bin\Debug\netcoreapp2.0\AssosiativeArray.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\bin\Debug\netcoreapp2.0\AssosiativeArray.dll
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\bin\Debug\netcoreapp2.0\AssosiativeArray.pdb
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\obj\Debug\netcoreapp2.0\AssosiativeArray.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\obj\Debug\netcoreapp2.0\AssosiativeArray.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\obj\Debug\netcoreapp2.0\AssosiativeArray.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\obj\Debug\netcoreapp2.0\AssosiativeArray.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\obj\Debug\netcoreapp2.0\AssosiativeArray.dll
+C:\Users\admin\codefellows\401\AssociativeArray\AssosiativeArray\AssosiativeArray\obj\Debug\netcoreapp2.0\AssosiativeArray.pdb
